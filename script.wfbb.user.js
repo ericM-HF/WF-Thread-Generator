@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        Warezforums IMDB Poster [BB]
-// @version     0.0.1
-// @description Template Maker
-// @author      BiliTheBox [Modified by JogZ37]
+// @name        Warezforums IMDB Poster [WF][BB]
+// @version     0.1.1
+// @description Generates a Template for the Movie&TV section of WarezForums
+// @author      JogZ37 [Original by BiliTheBox (Thanks!!!)]
 // @icon        https://warezforums.com/images/favicon.ico
 // @include     /^https?:\/\/warezforums\.com\/newthread\.php\?fid\=(32|33|76|105|100|101|85|102|79|106|104|103|80)/
 // @require     https://code.jquery.com/jquery-3.4.1.min.js
